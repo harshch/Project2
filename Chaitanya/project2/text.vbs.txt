@@ -1,0 +1,6 @@
+function 1()
+fsdfsd
+end
+function 2()
+fsdfsdgfsgfdghdgdfgfd
+end
